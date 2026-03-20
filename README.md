@@ -19,7 +19,7 @@ This project is separated into a static frontend and a lightweight PHP backend h
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/mapsdl.git
+git clone https://github.com/ysmhla/mapsdl.git
 ```
 2. **Deploy to an Apache/Nginx Server:**
 Upload all files directly into your web-exposed `/var/www/html` or `/public_html` directory so that `index.php` handles incoming traffic.
