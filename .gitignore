@@ -1,0 +1,24 @@
+# Build/Deploy dependencies
+node_modules/
+vendor/
+
+# Environment files and credentials
+.env
+.env.local
+.env.production
+.credentials/
+
+# System generated and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Personal/Project documentation out of scope for deploy
+brain.md
+journal.md
+logs.md
+files_structure.md
+database_structure.md
+.gemini/
